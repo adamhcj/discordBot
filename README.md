@@ -1,5 +1,5 @@
 # discordBot
-Python discord bot with several functions, mainly generating text to speech and playing it on user's voice chat. Plays other sounds too.<br>
+Python discord bot (hosted on replit) with several functions, mainly generating text to speech and playing it on user's voice chat. Plays other sounds too.<br>
 Bot token is using environment secrets set in replit
 <br>
 <h2>Disclaimer: This is one of my earlier developments, code is not the best and doesn't follow coding principles like Dont Repeat Yourself</h2>
