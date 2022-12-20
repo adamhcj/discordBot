@@ -1,6 +1,8 @@
 # discordBot
 Python discord bot with several functions, mainly generating text to speech and playing it on user's voice chat. Plays other sounds too
 <br>
+Disclaimer: one of my earlier developments, code is not the best and doesn't follow coding principles like Dont Repeat Yourself
+<br>
 <ul> Libraries used:
   <li>discord</li>
   <li>gtts (google text to speech)</li>
